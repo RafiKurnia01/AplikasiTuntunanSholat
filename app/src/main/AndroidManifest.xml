@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.azhar.bacaansholat">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <uses-permission android:name="android.permission.INTERNET" />
 
     <application
         android:allowBackup="true"
@@ -9,6 +10,18 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+        <activity
+            android:name=".activities.JadwalSholatActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activities.GerakanSholatActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activities.DoaActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activities.AyatPendekActivity"
+            android:exported="false" />
         <activity android:name=".activities.AyatKursiActivity" />
         <activity
             android:name=".activities.BacaanShalatActivity"

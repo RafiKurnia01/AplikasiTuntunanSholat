@@ -1,0 +1,298 @@
+[
+    {
+        "merged": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-merged_res-5:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-main-7:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-merged_res-5:\\drawable-xxxhdpi_ic_niat.png.flat",
+        "source": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-main-7:\\drawable-xxxhdpi\\ic_niat.png"
+    },
+    {
+        "merged": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-merged_res-5:\\drawable_bg_ayatpendek.png.flat",
+        "source": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-main-7:\\drawable\\bg_ayatpendek.png"
+    },
+    {
+        "merged": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-merged_res-5:\\drawable-xxxhdpi_bg_wave.png.flat",
+        "source": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-pngs-0:\\drawable-xxxhdpi\\bg_wave.png"
+    },
+    {
+        "merged": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-merged_res-5:\\layout_activity_doa.xml.flat",
+        "source": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-main-7:\\layout\\activity_doa.xml"
+    },
+    {
+        "merged": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-merged_res-5:\\layout_list_doa.xml.flat",
+        "source": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-main-7:\\layout\\list_doa.xml"
+    },
+    {
+        "merged": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-merged_res-5:\\layout_activity_ayat_pendek.xml.flat",
+        "source": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-main-7:\\layout\\activity_ayat_pendek.xml"
+    },
+    {
+        "merged": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-merged_res-5:\\drawable_komponenniat.png.flat",
+        "source": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-main-7:\\drawable\\komponenniat.png"
+    },
+    {
+        "merged": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-merged_res-5:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-main-7:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-merged_res-5:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-pngs-0:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-merged_res-5:\\layout_activity_gerakan_sholat.xml.flat",
+        "source": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-main-7:\\layout\\activity_gerakan_sholat.xml"
+    },
+    {
+        "merged": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-merged_res-5:\\drawable_masjid.png.flat",
+        "source": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-main-7:\\drawable\\masjid.png"
+    },
+    {
+        "merged": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-merged_res-5:\\drawable-xxhdpi_bg_wave.png.flat",
+        "source": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-pngs-0:\\drawable-xxhdpi\\bg_wave.png"
+    },
+    {
+        "merged": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-merged_res-5:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-main-7:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-merged_res-5:\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-main-7:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-merged_res-5:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-main-7:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-merged_res-5:\\drawable_bgbacaansholat1.png.flat",
+        "source": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-main-7:\\drawable\\bgbacaansholat1.png"
+    },
+    {
+        "merged": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-merged_res-5:\\drawable_baseline_home_24.xml.flat",
+        "source": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-main-7:\\drawable\\baseline_home_24.xml"
+    },
+    {
+        "merged": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-merged_res-5:\\drawable_bgbacaansholat.png.flat",
+        "source": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-main-7:\\drawable\\bgbacaansholat.png"
+    },
+    {
+        "merged": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-merged_res-5:\\drawable-anydpi-v24_bg_wave.xml.flat",
+        "source": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-pngs-0:\\drawable-anydpi-v24\\bg_wave.xml"
+    },
+    {
+        "merged": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-merged_res-5:\\drawable_bg_rounded_all.xml.flat",
+        "source": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-main-7:\\drawable\\bg_rounded_all.xml"
+    },
+    {
+        "merged": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-merged_res-5:\\font_poppinsbold.ttf.flat",
+        "source": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-main-7:\\font\\poppinsbold.ttf"
+    },
+    {
+        "merged": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-merged_res-5:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-main-7:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-merged_res-5:\\drawable_ayat_pendek.png.flat",
+        "source": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-main-7:\\drawable\\ayat_pendek.png"
+    },
+    {
+        "merged": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-merged_res-5:\\layout_list_ayat_pendek.xml.flat",
+        "source": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-main-7:\\layout\\list_ayat_pendek.xml"
+    },
+    {
+        "merged": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-merged_res-5:\\drawable_bg_row.xml.flat",
+        "source": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-main-7:\\drawable\\bg_row.xml"
+    },
+    {
+        "merged": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-merged_res-5:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-main-7:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-merged_res-5:\\drawable_azan.png.flat",
+        "source": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-main-7:\\drawable\\azan.png"
+    },
+    {
+        "merged": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-merged_res-5:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-main-7:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-merged_res-5:\\drawable_tuhan.png.flat",
+        "source": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-main-7:\\drawable\\tuhan.png"
+    },
+    {
+        "merged": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-merged_res-5:\\drawable_niat.png.flat",
+        "source": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-main-7:\\drawable\\niat.png"
+    },
+    {
+        "merged": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-merged_res-5:\\drawable-xxxhdpi_ic_bacaan.png.flat",
+        "source": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-main-7:\\drawable-xxxhdpi\\ic_bacaan.png"
+    },
+    {
+        "merged": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-merged_res-5:\\drawable_ic_arrow_black.xml.flat",
+        "source": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-main-7:\\drawable\\ic_arrow_black.xml"
+    },
+    {
+        "merged": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-merged_res-5:\\font_poppinsitalic.ttf.flat",
+        "source": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-main-7:\\font\\poppinsitalic.ttf"
+    },
+    {
+        "merged": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-merged_res-5:\\layout_activity_jadwal_sholat.xml.flat",
+        "source": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-main-7:\\layout\\activity_jadwal_sholat.xml"
+    },
+    {
+        "merged": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-merged_res-5:\\layout_activity_main.xml.flat",
+        "source": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-main-7:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-merged_res-5:\\drawable_ellips.xml.flat",
+        "source": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-main-7:\\drawable\\ellips.xml"
+    },
+    {
+        "merged": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-merged_res-5:\\layout_activity_niat_shalat.xml.flat",
+        "source": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-main-7:\\layout\\activity_niat_shalat.xml"
+    },
+    {
+        "merged": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-merged_res-5:\\drawable_belajar_sholat.png.flat",
+        "source": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-main-7:\\drawable\\belajar_sholat.png"
+    },
+    {
+        "merged": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-merged_res-5:\\drawable-xhdpi_bg_wave.png.flat",
+        "source": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-pngs-0:\\drawable-xhdpi\\bg_wave.png"
+    },
+    {
+        "merged": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-merged_res-5:\\drawable_doa.png.flat",
+        "source": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-main-7:\\drawable\\doa.png"
+    },
+    {
+        "merged": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-merged_res-5:\\drawable-xxxhdpi_ic_doa.png.flat",
+        "source": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-main-7:\\drawable-xxxhdpi\\ic_doa.png"
+    },
+    {
+        "merged": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-merged_res-5:\\drawable_doa_anak.png.flat",
+        "source": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-main-7:\\drawable\\doa_anak.png"
+    },
+    {
+        "merged": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-merged_res-5:\\drawable-mdpi_bg_wave.png.flat",
+        "source": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-pngs-0:\\drawable-mdpi\\bg_wave.png"
+    },
+    {
+        "merged": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-merged_res-5:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-main-7:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-merged_res-5:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-main-7:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-merged_res-5:\\layout_activity_ayat_kursi.xml.flat",
+        "source": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-main-7:\\layout\\activity_ayat_kursi.xml"
+    },
+    {
+        "merged": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-merged_res-5:\\drawable_bg_niat.png.flat",
+        "source": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-main-7:\\drawable\\bg_niat.png"
+    },
+    {
+        "merged": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-merged_res-5:\\drawable_syahadat.png.flat",
+        "source": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-main-7:\\drawable\\syahadat.png"
+    },
+    {
+        "merged": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-merged_res-5:\\drawable_bgmain.png.flat",
+        "source": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-main-7:\\drawable\\bgmain.png"
+    },
+    {
+        "merged": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-merged_res-5:\\drawable-hdpi_bg_wave.png.flat",
+        "source": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-pngs-0:\\drawable-hdpi\\bg_wave.png"
+    },
+    {
+        "merged": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-merged_res-5:\\drawable_bg_belajarsholat.png.flat",
+        "source": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-main-7:\\drawable\\bg_belajarsholat.png"
+    },
+    {
+        "merged": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-merged_res-5:\\drawable_ic_arrow_white.xml.flat",
+        "source": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-main-7:\\drawable\\ic_arrow_white.xml"
+    },
+    {
+        "merged": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-merged_res-5:\\drawable_bg_kumpulan_doa.png.flat",
+        "source": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-main-7:\\drawable\\bg_kumpulan_doa.png"
+    },
+    {
+        "merged": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-merged_res-5:\\drawable_bg_shalat.png.flat",
+        "source": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-main-7:\\drawable\\bg_shalat.png"
+    },
+    {
+        "merged": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-merged_res-5:\\drawable-ldpi_bg_wave.png.flat",
+        "source": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-pngs-0:\\drawable-ldpi\\bg_wave.png"
+    },
+    {
+        "merged": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-merged_res-5:\\drawable_bg_jadwalsholatwajib.png.flat",
+        "source": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-main-7:\\drawable\\bg_jadwalsholatwajib.png"
+    },
+    {
+        "merged": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-merged_res-5:\\drawable_bg_quran.jpg.flat",
+        "source": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-main-7:\\drawable\\bg_quran.jpg"
+    },
+    {
+        "merged": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-merged_res-5:\\layout_list_niat_shalat.xml.flat",
+        "source": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-main-7:\\layout\\list_niat_shalat.xml"
+    },
+    {
+        "merged": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-merged_res-5:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-main-7:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "com.azhar.bacaansholat.app-merged_res-5:/layout_main.xml.flat",
+        "source": "com.azhar.bacaansholat.app-main-7:/layout/main.xml"
+    },
+    {
+        "merged": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-merged_res-5:\\drawable_bg_main.png.flat",
+        "source": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-main-7:\\drawable\\bg_main.png"
+    },
+    {
+        "merged": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-merged_res-5:\\drawable_bg_doa.png.flat",
+        "source": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-main-7:\\drawable\\bg_doa.png"
+    },
+    {
+        "merged": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-merged_res-5:\\layout_activity_bacaan_shalat.xml.flat",
+        "source": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-main-7:\\layout\\activity_bacaan_shalat.xml"
+    },
+    {
+        "merged": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-merged_res-5:\\drawable_jadwalsholat.png.flat",
+        "source": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-main-7:\\drawable\\jadwalsholat.png"
+    },
+    {
+        "merged": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-merged_res-5:\\drawable_bg_jadwalsholat.png.flat",
+        "source": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-main-7:\\drawable\\bg_jadwalsholat.png"
+    },
+    {
+        "merged": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-merged_res-5:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-main-7:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-merged_res-5:\\drawable_ayatpendek.png.flat",
+        "source": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-main-7:\\drawable\\ayatpendek.png"
+    },
+    {
+        "merged": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-merged_res-5:\\drawable_komponen.png.flat",
+        "source": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-main-7:\\drawable\\komponen.png"
+    },
+    {
+        "merged": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-merged_res-5:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-main-7:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-merged_res-5:\\drawable_sholat.png.flat",
+        "source": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-main-7:\\drawable\\sholat.png"
+    },
+    {
+        "merged": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-merged_res-5:\\layout_main.xml.flat",
+        "source": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-main-7:\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-merged_res-5:\\layout_list_bacaan_shalat.xml.flat",
+        "source": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-main-7:\\layout\\list_bacaan_shalat.xml"
+    },
+    {
+        "merged": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-merged_res-5:\\drawable_bacaansholat.png.flat",
+        "source": "D:\\PROJEK\\Belajar\\FirebaseChat\\daemon\\7.5\\com.azhar.bacaansholat.app-main-7:\\drawable\\bacaansholat.png"
+    }
+]

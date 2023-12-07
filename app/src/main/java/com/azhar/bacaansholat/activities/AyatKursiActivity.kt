@@ -50,7 +50,7 @@ class AyatKursiActivity : AppCompatActivity(), View.OnClickListener {
 
     private fun getDataAyatKursi() {
         try {
-            val stream = assets.open("ayatkursi.json")
+            val stream = assets.open("ayatpendek.json")
             val size = stream.available()
             val buffer = ByteArray(size)
             stream.read(buffer)

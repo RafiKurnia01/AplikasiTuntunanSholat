@@ -6,5 +6,8 @@
     android:tint="@android:color/white">
   <path
       android:fillColor="@android:color/white"
-      android:pathData="M11.67,3.87L9.9,2.1 0,12l9.9,9.9 1.77,-1.77L3.54,12z"/>
+      android:pathData="M11.67,3.87L9.9,2.1 0,12l9.9,9.9 1.77,-1.77L3.54,12z"
+      android:strokeWidth="2"
+      android:strokeColor="@android:color/white"
+      />
 </vector>

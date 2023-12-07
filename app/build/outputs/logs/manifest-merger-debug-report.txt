@@ -1,0 +1,209 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\PROJEK\Belajar\BacaanSholat\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from D:\PROJEK\Belajar\BacaanSholat\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from D:\PROJEK\Belajar\BacaanSholat\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from D:\PROJEK\Belajar\BacaanSholat\app\src\main\AndroidManifest.xml:2:1-41:12
+MERGED from [com.github.florent37:expansionpanel:1.2.4] D:\PROJEK\Belajar\FirebaseChat\caches\transforms-3\f10744dfada3bd296cd886d27535de0f\transformed\jetified-expansionpanel-1.2.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] D:\PROJEK\Belajar\FirebaseChat\caches\transforms-3\a19bc93ed028462d412d473c3c0d8655\transformed\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.2.1] D:\PROJEK\Belajar\FirebaseChat\caches\transforms-3\f2f6c313740f9e085cd3876b95e05056\transformed\material-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] D:\PROJEK\Belajar\FirebaseChat\caches\transforms-3\be4c042c4ed6408c17bc42d8eea31353\transformed\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] D:\PROJEK\Belajar\FirebaseChat\caches\transforms-3\b75d02c325c9512ef0d9162b36f973dd\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] D:\PROJEK\Belajar\FirebaseChat\caches\transforms-3\edd001069f23475924a5afa5df4b4439\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] D:\PROJEK\Belajar\FirebaseChat\caches\transforms-3\c2ce425b5b39c9dec47e9f75905fef4e\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.makeramen:roundedimageview:2.3.0] D:\PROJEK\Belajar\FirebaseChat\caches\transforms-3\da75d2e89576664a475d4dee5dadc5ea\transformed\jetified-roundedimageview-2.3.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] D:\PROJEK\Belajar\FirebaseChat\caches\transforms-3\649352a269038789cef58bd8ce890521\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] D:\PROJEK\Belajar\FirebaseChat\caches\transforms-3\1da0decb3bacc38023145f1fc2063e32\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] D:\PROJEK\Belajar\FirebaseChat\caches\transforms-3\a6a390c2d5d91d408f3ebac4b49770e6\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] D:\PROJEK\Belajar\FirebaseChat\caches\transforms-3\8689d0db589a4ab4fc77bcdc889f88f2\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] D:\PROJEK\Belajar\FirebaseChat\caches\transforms-3\87745dd2c48bd88ad56c1e7094da287b\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] D:\PROJEK\Belajar\FirebaseChat\caches\transforms-3\f601e55f08d9a8c45f1463dc925bb5dd\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] D:\PROJEK\Belajar\FirebaseChat\caches\transforms-3\9891697fb8e0d8fc6d55dfe2c550e390\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] D:\PROJEK\Belajar\FirebaseChat\caches\transforms-3\094b40a2a7eed897762127270be9afac\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] D:\PROJEK\Belajar\FirebaseChat\caches\transforms-3\fd38e84b510412808585f72d1b653217\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] D:\PROJEK\Belajar\FirebaseChat\caches\transforms-3\092eda76bbf7f1fbd1be0a14373b93fa\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] D:\PROJEK\Belajar\FirebaseChat\caches\transforms-3\b052207bf9312c63521154faaa1f2602\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] D:\PROJEK\Belajar\FirebaseChat\caches\transforms-3\dcb706e6affe9083783c930659672079\transformed\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.3.1] D:\PROJEK\Belajar\FirebaseChat\caches\transforms-3\491e3f720984d24422106071bd794c92\transformed\core-1.3.1\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] D:\PROJEK\Belajar\FirebaseChat\caches\transforms-3\b03a0e6d9548fd56ebf0a2b3f6cfb1da\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] D:\PROJEK\Belajar\FirebaseChat\caches\transforms-3\e00f8452db30f2878f66bbd2d09a680b\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] D:\PROJEK\Belajar\FirebaseChat\caches\transforms-3\6dc89afabc78721d0f7ac628b89fef57\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] D:\PROJEK\Belajar\FirebaseChat\caches\transforms-3\e31761534b9a866a36693eda486910a6\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] D:\PROJEK\Belajar\FirebaseChat\caches\transforms-3\6bcbd6e8ae404a67131fcf07809c8106\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] D:\PROJEK\Belajar\FirebaseChat\caches\transforms-3\1d85c27981eb8be12cc5e2ff97a1d179\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] D:\PROJEK\Belajar\FirebaseChat\caches\transforms-3\5649b79fd98e6e2dc34502374554848f\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] D:\PROJEK\Belajar\FirebaseChat\caches\transforms-3\1848cf2ee2f457dc9826160ff5cbf4bd\transformed\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] D:\PROJEK\Belajar\FirebaseChat\caches\transforms-3\06d5ea1be41d0c7d557e0c5cb0a13e2f\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+INJECTED from D:\PROJEK\Belajar\BacaanSholat\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from D:\PROJEK\Belajar\BacaanSholat\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from D:\PROJEK\Belajar\BacaanSholat\app\src\main\AndroidManifest.xml:2:1-41:12
+	package
+		INJECTED from D:\PROJEK\Belajar\BacaanSholat\app\src\main\AndroidManifest.xml
+		ADDED from D:\PROJEK\Belajar\BacaanSholat\app\src\main\AndroidManifest.xml:2:1-41:12
+		INJECTED from D:\PROJEK\Belajar\BacaanSholat\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\PROJEK\Belajar\BacaanSholat\app\src\main\AndroidManifest.xml
+		ADDED from D:\PROJEK\Belajar\BacaanSholat\app\src\main\AndroidManifest.xml:2:1-41:12
+		INJECTED from D:\PROJEK\Belajar\BacaanSholat\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\PROJEK\Belajar\BacaanSholat\app\src\main\AndroidManifest.xml
+		ADDED from D:\PROJEK\Belajar\BacaanSholat\app\src\main\AndroidManifest.xml:2:1-41:12
+		INJECTED from D:\PROJEK\Belajar\BacaanSholat\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\PROJEK\Belajar\BacaanSholat\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\PROJEK\Belajar\BacaanSholat\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from D:\PROJEK\Belajar\BacaanSholat\app\src\main\AndroidManifest.xml:4:22-64
+application
+ADDED from D:\PROJEK\Belajar\BacaanSholat\app\src\main\AndroidManifest.xml:6:5-39:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] D:\PROJEK\Belajar\FirebaseChat\caches\transforms-3\a19bc93ed028462d412d473c3c0d8655\transformed\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] D:\PROJEK\Belajar\FirebaseChat\caches\transforms-3\a19bc93ed028462d412d473c3c0d8655\transformed\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.material:material:1.2.1] D:\PROJEK\Belajar\FirebaseChat\caches\transforms-3\f2f6c313740f9e085cd3876b95e05056\transformed\material-1.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.2.1] D:\PROJEK\Belajar\FirebaseChat\caches\transforms-3\f2f6c313740f9e085cd3876b95e05056\transformed\material-1.2.1\AndroidManifest.xml:22:5-20
+MERGED from [androidx.core:core:1.3.1] D:\PROJEK\Belajar\FirebaseChat\caches\transforms-3\491e3f720984d24422106071bd794c92\transformed\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.1] D:\PROJEK\Belajar\FirebaseChat\caches\transforms-3\491e3f720984d24422106071bd794c92\transformed\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] D:\PROJEK\Belajar\FirebaseChat\caches\transforms-3\b03a0e6d9548fd56ebf0a2b3f6cfb1da\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] D:\PROJEK\Belajar\FirebaseChat\caches\transforms-3\b03a0e6d9548fd56ebf0a2b3f6cfb1da\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.1] D:\PROJEK\Belajar\FirebaseChat\caches\transforms-3\491e3f720984d24422106071bd794c92\transformed\core-1.3.1\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from D:\PROJEK\Belajar\BacaanSholat\app\src\main\AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from D:\PROJEK\Belajar\BacaanSholat\app\src\main\AndroidManifest.xml:9:9-41
+	android:roundIcon
+		ADDED from D:\PROJEK\Belajar\BacaanSholat\app\src\main\AndroidManifest.xml:10:9-54
+	android:icon
+		ADDED from D:\PROJEK\Belajar\BacaanSholat\app\src\main\AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from D:\PROJEK\Belajar\BacaanSholat\app\src\main\AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from D:\PROJEK\Belajar\BacaanSholat\app\src\main\AndroidManifest.xml:12:9-40
+activity#com.azhar.bacaansholat.activities.JadwalSholatActivity
+ADDED from D:\PROJEK\Belajar\BacaanSholat\app\src\main\AndroidManifest.xml:13:9-15:40
+	android:exported
+		ADDED from D:\PROJEK\Belajar\BacaanSholat\app\src\main\AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from D:\PROJEK\Belajar\BacaanSholat\app\src\main\AndroidManifest.xml:14:13-60
+activity#com.azhar.bacaansholat.activities.GerakanSholatActivity
+ADDED from D:\PROJEK\Belajar\BacaanSholat\app\src\main\AndroidManifest.xml:16:9-18:40
+	android:exported
+		ADDED from D:\PROJEK\Belajar\BacaanSholat\app\src\main\AndroidManifest.xml:18:13-37
+	android:name
+		ADDED from D:\PROJEK\Belajar\BacaanSholat\app\src\main\AndroidManifest.xml:17:13-61
+activity#com.azhar.bacaansholat.activities.DoaActivity
+ADDED from D:\PROJEK\Belajar\BacaanSholat\app\src\main\AndroidManifest.xml:19:9-21:40
+	android:exported
+		ADDED from D:\PROJEK\Belajar\BacaanSholat\app\src\main\AndroidManifest.xml:21:13-37
+	android:name
+		ADDED from D:\PROJEK\Belajar\BacaanSholat\app\src\main\AndroidManifest.xml:20:13-51
+activity#com.azhar.bacaansholat.activities.AyatPendekActivity
+ADDED from D:\PROJEK\Belajar\BacaanSholat\app\src\main\AndroidManifest.xml:22:9-24:40
+	android:exported
+		ADDED from D:\PROJEK\Belajar\BacaanSholat\app\src\main\AndroidManifest.xml:24:13-37
+	android:name
+		ADDED from D:\PROJEK\Belajar\BacaanSholat\app\src\main\AndroidManifest.xml:23:13-58
+activity#com.azhar.bacaansholat.activities.AyatKursiActivity
+ADDED from D:\PROJEK\Belajar\BacaanSholat\app\src\main\AndroidManifest.xml:25:9-66
+	android:name
+		ADDED from D:\PROJEK\Belajar\BacaanSholat\app\src\main\AndroidManifest.xml:25:19-63
+activity#com.azhar.bacaansholat.activities.BacaanShalatActivity
+ADDED from D:\PROJEK\Belajar\BacaanSholat\app\src\main\AndroidManifest.xml:26:9-28:59
+	android:theme
+		ADDED from D:\PROJEK\Belajar\BacaanSholat\app\src\main\AndroidManifest.xml:28:13-56
+	android:name
+		ADDED from D:\PROJEK\Belajar\BacaanSholat\app\src\main\AndroidManifest.xml:27:13-60
+activity#com.azhar.bacaansholat.activities.NiatShalatActivity
+ADDED from D:\PROJEK\Belajar\BacaanSholat\app\src\main\AndroidManifest.xml:29:9-31:59
+	android:theme
+		ADDED from D:\PROJEK\Belajar\BacaanSholat\app\src\main\AndroidManifest.xml:31:13-56
+	android:name
+		ADDED from D:\PROJEK\Belajar\BacaanSholat\app\src\main\AndroidManifest.xml:30:13-58
+activity#com.azhar.bacaansholat.activities.MainActivity
+ADDED from D:\PROJEK\Belajar\BacaanSholat\app\src\main\AndroidManifest.xml:32:9-38:20
+	android:name
+		ADDED from D:\PROJEK\Belajar\BacaanSholat\app\src\main\AndroidManifest.xml:32:19-58
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\PROJEK\Belajar\BacaanSholat\app\src\main\AndroidManifest.xml:33:13-37:29
+action#android.intent.action.MAIN
+ADDED from D:\PROJEK\Belajar\BacaanSholat\app\src\main\AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from D:\PROJEK\Belajar\BacaanSholat\app\src\main\AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\PROJEK\Belajar\BacaanSholat\app\src\main\AndroidManifest.xml:36:17-77
+	android:name
+		ADDED from D:\PROJEK\Belajar\BacaanSholat\app\src\main\AndroidManifest.xml:36:27-74
+uses-sdk
+INJECTED from D:\PROJEK\Belajar\BacaanSholat\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\PROJEK\Belajar\BacaanSholat\app\src\main\AndroidManifest.xml
+INJECTED from D:\PROJEK\Belajar\BacaanSholat\app\src\main\AndroidManifest.xml
+MERGED from [com.github.florent37:expansionpanel:1.2.4] D:\PROJEK\Belajar\FirebaseChat\caches\transforms-3\f10744dfada3bd296cd886d27535de0f\transformed\jetified-expansionpanel-1.2.4\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.florent37:expansionpanel:1.2.4] D:\PROJEK\Belajar\FirebaseChat\caches\transforms-3\f10744dfada3bd296cd886d27535de0f\transformed\jetified-expansionpanel-1.2.4\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] D:\PROJEK\Belajar\FirebaseChat\caches\transforms-3\a19bc93ed028462d412d473c3c0d8655\transformed\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] D:\PROJEK\Belajar\FirebaseChat\caches\transforms-3\a19bc93ed028462d412d473c3c0d8655\transformed\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.2.1] D:\PROJEK\Belajar\FirebaseChat\caches\transforms-3\f2f6c313740f9e085cd3876b95e05056\transformed\material-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.2.1] D:\PROJEK\Belajar\FirebaseChat\caches\transforms-3\f2f6c313740f9e085cd3876b95e05056\transformed\material-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.2.0] D:\PROJEK\Belajar\FirebaseChat\caches\transforms-3\be4c042c4ed6408c17bc42d8eea31353\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] D:\PROJEK\Belajar\FirebaseChat\caches\transforms-3\be4c042c4ed6408c17bc42d8eea31353\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] D:\PROJEK\Belajar\FirebaseChat\caches\transforms-3\b75d02c325c9512ef0d9162b36f973dd\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] D:\PROJEK\Belajar\FirebaseChat\caches\transforms-3\b75d02c325c9512ef0d9162b36f973dd\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] D:\PROJEK\Belajar\FirebaseChat\caches\transforms-3\edd001069f23475924a5afa5df4b4439\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] D:\PROJEK\Belajar\FirebaseChat\caches\transforms-3\edd001069f23475924a5afa5df4b4439\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] D:\PROJEK\Belajar\FirebaseChat\caches\transforms-3\c2ce425b5b39c9dec47e9f75905fef4e\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] D:\PROJEK\Belajar\FirebaseChat\caches\transforms-3\c2ce425b5b39c9dec47e9f75905fef4e\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.makeramen:roundedimageview:2.3.0] D:\PROJEK\Belajar\FirebaseChat\caches\transforms-3\da75d2e89576664a475d4dee5dadc5ea\transformed\jetified-roundedimageview-2.3.0\AndroidManifest.xml:7:5-43
+MERGED from [com.makeramen:roundedimageview:2.3.0] D:\PROJEK\Belajar\FirebaseChat\caches\transforms-3\da75d2e89576664a475d4dee5dadc5ea\transformed\jetified-roundedimageview-2.3.0\AndroidManifest.xml:7:5-43
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] D:\PROJEK\Belajar\FirebaseChat\caches\transforms-3\649352a269038789cef58bd8ce890521\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] D:\PROJEK\Belajar\FirebaseChat\caches\transforms-3\649352a269038789cef58bd8ce890521\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] D:\PROJEK\Belajar\FirebaseChat\caches\transforms-3\1da0decb3bacc38023145f1fc2063e32\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] D:\PROJEK\Belajar\FirebaseChat\caches\transforms-3\1da0decb3bacc38023145f1fc2063e32\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] D:\PROJEK\Belajar\FirebaseChat\caches\transforms-3\a6a390c2d5d91d408f3ebac4b49770e6\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] D:\PROJEK\Belajar\FirebaseChat\caches\transforms-3\a6a390c2d5d91d408f3ebac4b49770e6\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] D:\PROJEK\Belajar\FirebaseChat\caches\transforms-3\8689d0db589a4ab4fc77bcdc889f88f2\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] D:\PROJEK\Belajar\FirebaseChat\caches\transforms-3\8689d0db589a4ab4fc77bcdc889f88f2\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] D:\PROJEK\Belajar\FirebaseChat\caches\transforms-3\87745dd2c48bd88ad56c1e7094da287b\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] D:\PROJEK\Belajar\FirebaseChat\caches\transforms-3\87745dd2c48bd88ad56c1e7094da287b\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] D:\PROJEK\Belajar\FirebaseChat\caches\transforms-3\f601e55f08d9a8c45f1463dc925bb5dd\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] D:\PROJEK\Belajar\FirebaseChat\caches\transforms-3\f601e55f08d9a8c45f1463dc925bb5dd\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] D:\PROJEK\Belajar\FirebaseChat\caches\transforms-3\9891697fb8e0d8fc6d55dfe2c550e390\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] D:\PROJEK\Belajar\FirebaseChat\caches\transforms-3\9891697fb8e0d8fc6d55dfe2c550e390\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] D:\PROJEK\Belajar\FirebaseChat\caches\transforms-3\094b40a2a7eed897762127270be9afac\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] D:\PROJEK\Belajar\FirebaseChat\caches\transforms-3\094b40a2a7eed897762127270be9afac\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] D:\PROJEK\Belajar\FirebaseChat\caches\transforms-3\fd38e84b510412808585f72d1b653217\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] D:\PROJEK\Belajar\FirebaseChat\caches\transforms-3\fd38e84b510412808585f72d1b653217\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] D:\PROJEK\Belajar\FirebaseChat\caches\transforms-3\092eda76bbf7f1fbd1be0a14373b93fa\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] D:\PROJEK\Belajar\FirebaseChat\caches\transforms-3\092eda76bbf7f1fbd1be0a14373b93fa\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] D:\PROJEK\Belajar\FirebaseChat\caches\transforms-3\b052207bf9312c63521154faaa1f2602\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] D:\PROJEK\Belajar\FirebaseChat\caches\transforms-3\b052207bf9312c63521154faaa1f2602\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] D:\PROJEK\Belajar\FirebaseChat\caches\transforms-3\dcb706e6affe9083783c930659672079\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] D:\PROJEK\Belajar\FirebaseChat\caches\transforms-3\dcb706e6affe9083783c930659672079\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] D:\PROJEK\Belajar\FirebaseChat\caches\transforms-3\491e3f720984d24422106071bd794c92\transformed\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] D:\PROJEK\Belajar\FirebaseChat\caches\transforms-3\491e3f720984d24422106071bd794c92\transformed\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] D:\PROJEK\Belajar\FirebaseChat\caches\transforms-3\b03a0e6d9548fd56ebf0a2b3f6cfb1da\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] D:\PROJEK\Belajar\FirebaseChat\caches\transforms-3\b03a0e6d9548fd56ebf0a2b3f6cfb1da\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] D:\PROJEK\Belajar\FirebaseChat\caches\transforms-3\e00f8452db30f2878f66bbd2d09a680b\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] D:\PROJEK\Belajar\FirebaseChat\caches\transforms-3\e00f8452db30f2878f66bbd2d09a680b\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] D:\PROJEK\Belajar\FirebaseChat\caches\transforms-3\6dc89afabc78721d0f7ac628b89fef57\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] D:\PROJEK\Belajar\FirebaseChat\caches\transforms-3\6dc89afabc78721d0f7ac628b89fef57\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] D:\PROJEK\Belajar\FirebaseChat\caches\transforms-3\e31761534b9a866a36693eda486910a6\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] D:\PROJEK\Belajar\FirebaseChat\caches\transforms-3\e31761534b9a866a36693eda486910a6\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] D:\PROJEK\Belajar\FirebaseChat\caches\transforms-3\6bcbd6e8ae404a67131fcf07809c8106\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] D:\PROJEK\Belajar\FirebaseChat\caches\transforms-3\6bcbd6e8ae404a67131fcf07809c8106\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] D:\PROJEK\Belajar\FirebaseChat\caches\transforms-3\1d85c27981eb8be12cc5e2ff97a1d179\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] D:\PROJEK\Belajar\FirebaseChat\caches\transforms-3\1d85c27981eb8be12cc5e2ff97a1d179\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] D:\PROJEK\Belajar\FirebaseChat\caches\transforms-3\5649b79fd98e6e2dc34502374554848f\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] D:\PROJEK\Belajar\FirebaseChat\caches\transforms-3\5649b79fd98e6e2dc34502374554848f\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] D:\PROJEK\Belajar\FirebaseChat\caches\transforms-3\1848cf2ee2f457dc9826160ff5cbf4bd\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] D:\PROJEK\Belajar\FirebaseChat\caches\transforms-3\1848cf2ee2f457dc9826160ff5cbf4bd\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] D:\PROJEK\Belajar\FirebaseChat\caches\transforms-3\06d5ea1be41d0c7d557e0c5cb0a13e2f\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] D:\PROJEK\Belajar\FirebaseChat\caches\transforms-3\06d5ea1be41d0c7d557e0c5cb0a13e2f\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+INJECTED from D:\PROJEK\Belajar\BacaanSholat\app\src\main\AndroidManifest.xml
+INJECTED from D:\PROJEK\Belajar\BacaanSholat\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\PROJEK\Belajar\BacaanSholat\app\src\main\AndroidManifest.xml
+		ADDED from D:\PROJEK\Belajar\BacaanSholat\app\src\main\AndroidManifest.xml
+		INJECTED from D:\PROJEK\Belajar\BacaanSholat\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\PROJEK\Belajar\BacaanSholat\app\src\main\AndroidManifest.xml
+		ADDED from D:\PROJEK\Belajar\BacaanSholat\app\src\main\AndroidManifest.xml
+		INJECTED from D:\PROJEK\Belajar\BacaanSholat\app\src\main\AndroidManifest.xml

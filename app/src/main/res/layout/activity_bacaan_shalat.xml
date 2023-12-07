@@ -3,7 +3,7 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/colorPrimaryDark"
+    android:background="@drawable/bgbacaansholat"
     android:fitsSystemWindows="true">
 
     <com.google.android.material.appbar.AppBarLayout
@@ -18,7 +18,8 @@
             android:id="@+id/toolbar"
             android:layout_width="?actionBarSize"
             android:layout_height="?actionBarSize"
-            app:navigationIcon="@drawable/ic_arrow_white" />
+            app:navigationIcon="@drawable/baseline_home_24"
+        />
 
     </com.google.android.material.appbar.AppBarLayout>
 
@@ -26,51 +27,63 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent">
 
+
         <FrameLayout
             android:id="@+id/frameHeader"
             android:layout_width="match_parent"
-            android:layout_height="300dp">
+            android:layout_height="200dp">
 
-            <com.makeramen.roundedimageview.RoundedImageView
-                android:layout_width="330dp"
-                android:layout_height="200dp"
-                android:layout_gravity="end"
-                android:elevation="5dp"
-                android:scaleType="centerCrop"
-                android:src="@drawable/bg_doa"
-                app:riv_corner_radius_bottom_left="40dp"
-                app:riv_corner_radius_bottom_right="40dp"
-                app:riv_corner_radius_top_left="40dp" />
+<!--            <com.makeramen.roundedimageview.RoundedImageView-->
+<!--                android:layout_width="330dp"-->
+<!--                android:layout_height="200dp"-->
+<!--                android:layout_gravity="end"-->
+<!--                android:elevation="5dp"-->
+<!--                android:scaleType="centerCrop"-->
+<!--                android:src="@drawable/bg_doa"-->
+<!--                app:riv_corner_radius_bottom_left="40dp"-->
+<!--                app:riv_corner_radius_bottom_right="40dp"-->
+<!--                app:riv_corner_radius_top_left="40dp" />-->
 
             <LinearLayout
+                android:layout_marginTop="-40dp"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:layout_gravity="bottom"
-                android:backgroundTint="@color/colorPrimary"
-                android:background="@drawable/bg_rounded_all"
+                android:layout_gravity="center"
                 android:gravity="bottom"
-                android:orientation="vertical">
+                android:orientation="vertical"
+                android:paddingRight="20dp">
 
+                <ImageView
+                    android:id="@+id/komponen"
+                    android:layout_width="150dp"
+                    android:layout_height="150dp"
+                    android:src="@drawable/komponen"
+                    android:layout_gravity="end"/>
                 <TextView
-                    android:layout_width="wrap_content"
+                    android:layout_marginTop="-30dp"
+                    android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginStart="30dp"
                     android:text="Bacaan Shalat"
                     android:textColor="@android:color/white"
-                    android:textSize="20sp"
-                    android:textStyle="bold" />
+                    android:textSize="30sp"
+                    android:textStyle="bold"
+                    android:fontFamily="@font/poppinsbold"
+                    android:textAlignment="textEnd"/>
 
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_marginStart="30dp"
-                    android:layout_marginBottom="30dp"
-                    android:text="Bacaan shalat dari doa Iftitah sampai Salam"
-                    android:textColor="@android:color/white"
-                    android:textSize="14sp"
-                    android:textStyle="bold" />
+<!--                <TextView-->
+<!--                    android:layout_width="match_parent"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:layout_marginStart="30dp"-->
+<!--                    android:layout_marginBottom="30dp"-->
+<!--                    android:text="Bacaan shalat dari doa Iftitah sampai Salam"-->
+<!--                    android:textColor="@android:color/white"-->
+<!--                    android:textSize="14sp"-->
+<!--                    android:fontFamily="@font/poppinsbold"-->
+<!--                    android:textAlignment="textEnd"/>-->
 
             </LinearLayout>
+
 
         </FrameLayout>
 

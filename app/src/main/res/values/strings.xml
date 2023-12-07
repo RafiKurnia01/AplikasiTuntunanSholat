@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">Bacaan Sholat</string>
+    <string name="panduan_sholat_lengkap">PANDUAN SHOLAT LENGKAP</string>
+    <string name="text_jadwal_sholat">Jadwal Sholat</string>
+    <string name="niat">Niat Sholat</string>
+    <string name="bacaan_sholat">Bacaan Sholat</string>
+    <string name="ayat_pendek">Ayat Pendek</string>
+    <string name="doa">Doa</string>
+    <string name="gerakan_sholat">Gerakan Sholat</string>
+    <string name="menu_pilihan">MENU PILIHAN</string>
+    <string name="niat_sholat">NIAT SHOLAT WAJIB</string>
+    <string name="judul_ayat_pendek">AYAT PENDEK</string>
+    <string name="kumpulan_doa">KUMPULAN DOA</string>
+    <string name="judul_doa">Kumpulan Doa</string>
+    <string name="ayo_belajar_sholat">Mari Belajar Sholat....</string>
 </resources>

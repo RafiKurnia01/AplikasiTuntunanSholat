@@ -15,7 +15,7 @@ import kotlinx.android.synthetic.main.list_bacaan_shalat.view.*
 
 class BacaanShalatAdapter(private val modelBacaan: List<ModelBacaan>) : RecyclerView.Adapter<BacaanShalatAdapter.ListViewHolder>() {
     override fun onCreateViewHolder(viewGroup: ViewGroup, i: Int): ListViewHolder {
-        val view = LayoutInflater.from(viewGroup.context).inflate(R.layout.list_niat_shalat, viewGroup, false)
+        val view = LayoutInflater.from(viewGroup.context).inflate(R.layout.list_bacaan_shalat, viewGroup, false)
         return ListViewHolder(view)
     }
 
@@ -32,7 +32,7 @@ class BacaanShalatAdapter(private val modelBacaan: List<ModelBacaan>) : Recycler
         return modelBacaan.size
     }
 
-    internal class ListViewHolder(itemView: View) : RecyclerView.ViewHolder(itemView) {
+    public class ListViewHolder(itemView: View) : RecyclerView.ViewHolder(itemView) {
         var txtId: TextView
         var txtName: TextView
         var txtArabic: TextView

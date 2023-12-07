@@ -32,7 +32,7 @@ class NiatShalatAdapter(private val modelBacaan: List<ModelBacaan>) : RecyclerVi
         return modelBacaan.size
     }
 
-    internal class ListViewHolder(itemView: View) : RecyclerView.ViewHolder(itemView) {
+    public class ListViewHolder(itemView: View) : RecyclerView.ViewHolder(itemView) {
         var txtId: TextView
         var txtName: TextView
         var txtArabic: TextView
